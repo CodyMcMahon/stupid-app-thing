@@ -1,0 +1,1 @@
+function draw_idk(){  paint_brush.drawImage(missing_asset,0,0,800,600);  }function down_idk(x,y){    }function up_idk(x,y){    }function move_idk(x,y){    }function stop_idk(){    }function start_idk(){    }
